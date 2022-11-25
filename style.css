@@ -72,5 +72,9 @@ body {
 #show-expe,
 #show-edu {
     padding-left: 10px;
+    display: none;
+}
 
+.info-nav:hover #info-show {
+    display: inline;
 }
